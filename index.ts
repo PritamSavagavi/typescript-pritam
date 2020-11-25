@@ -1,2 +1,2 @@
-const str = "pritam"
+const str = "pritam savagavi"
 console.log(str);
